@@ -69,8 +69,8 @@ TIMESTAMP=$( TZ='' printf "%(%FT%TZ)T" )
 PAYLOAD_DATA=$(
 cat <<EOF
 {
-	"username": "GitHub Actions",
-	"avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+	"username": "2dgirlismywaifu",
+	"avatar_url": "https://gravatar.com/avatar/e87b3321c975c33493a771139de93b90",
 	"embeds": [
 		{
 			"title": $TITLE,
